@@ -1,0 +1,7 @@
+git init <name>.git
+
+git status
+
+git add <name>.java
+
+git commit -m "<desc>"
